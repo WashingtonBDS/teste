@@ -1,0 +1,17 @@
+{
+  "name": "inciando_com_node_js",
+  "version": "1.0.0",
+  "description": "Segundo projeto 2022 Condedrops",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Washington Batista",
+  "license": "ISC",
+  "dependencies": {
+    "@nestjs/common": "^9.2.0",
+    "@nestjs/core": "^9.2.0",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^7.5.7"
+  }
+}
